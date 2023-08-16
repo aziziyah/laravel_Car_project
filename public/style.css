@@ -1,0 +1,67 @@
+nav a {
+    padding: .5rem;
+}
+body{
+    font-family: sans-serif;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+    background-color: black;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 1px solid;
+    text-align: center;
+}
+li:hover {
+
+    background-color: brown;
+}
+body{
+    background-color: yellow;
+    text-align: center;
+}
+form {
+background-color: aliceblue;
+
+border-radius: 10px;
+
+}
+form div {
+    text-align: center;
+    margin: 10px;
+}
+form input {
+    border: 1px solid ;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-family:sans-serif;
+}
+form label{
+    display: inherit;
+    font-size: .9rem;
+    padding-bottom: 3px;
+    color: rgb(141, 108, 68);
+}
+form button {
+    border: 1px solid chocolate;
+    padding: 10p solid  chocolate;
+    font-size: 1.1rem;
+    margin: 10px 0;
+}
+.edit-btn{
+    color: antiquewhite;
+    text-decoration: underline;
+    font-size: .8rem;
+}
+
+.delete-btn{
+    color: antiquewhite;
+    text-decoration: underline;
+    font-size: .8rem;
+}
